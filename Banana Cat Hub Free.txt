@@ -11142,7 +11142,7 @@ Input = Tabs.PVP:AddInput('Input', {
 game.StarterGui:SetCore('SendNotification', {
     Title = 'Yes Or No',
     Text = 'U want reset Config?',
-    Icon = 'rbxassetid://73092363986441',
+    Icon = 'rbxassetid://103423456341785',
     Duration = 100000,
     Button1 = 'Yes',
     Button2 = 'No',
@@ -11186,7 +11186,7 @@ Image.AnchorPoint = Vector2.new(0.5, 0.5)
 Image.Position = UDim2.new(0.5, 0, 0.5, 0)
 Image.Size = UDim2.new(0, 40, 0, 40)
 Image.BackgroundTransparency = 1
-Image.Image = "rbxassetid://73092363986441"
+Image.Image = "rbxassetid://103423456341785"
 
 -- Botão invisível
 local Button = Instance.new("TextButton")
@@ -11514,6 +11514,6 @@ print('\u{2705} Smooth + Stable Anti-Lag Activated - Made by obii')
 game.StarterGui:SetCore('SendNotification', {
     Title = 'UPDATE!',
     Text = 'Reduce Lag And Fixed Some Functions\u{2705}',
-    Icon = 'rbxassetid://73092363986441',
+    Icon = 'rbxassetid://103423456341785',
     Duration = 8,
 })
